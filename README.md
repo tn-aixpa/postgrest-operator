@@ -1,5 +1,5 @@
 # PostgREST Operator
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/scc-digitalhub/postgrest-operator/release.yaml?event=release) [![license](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/scc-digitalhub/postgrest-operator/LICENSE) ![GitHub Release](https://img.shields.io/github/v/release/scc-digitalhub/postgrest-operator)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/tn-aixpa/postgrest-operator/release.yaml?event=release) [![license](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/tn-aixpa/postgrest-operator/LICENSE) ![GitHub Release](https://img.shields.io/github/v/release/tn-aixpa/postgrest-operator)
 ![Status](https://img.shields.io/badge/status-beta-blue)
 
 
